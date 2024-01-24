@@ -1,2 +1,2 @@
 FROM ahmedshahrour/apache
-add . var/www/html
+ADD . var/www/html
